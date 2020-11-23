@@ -1,0 +1,4 @@
+**/serviceWorker.js
+**/serviceWorker.ts
+**/node_modules
+**/coverage
